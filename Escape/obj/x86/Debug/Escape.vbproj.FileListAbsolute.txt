@@ -1,0 +1,52 @@
+H:\programming 11\Escape\Escape\bin\Debug\Escape.exe
+H:\programming 11\Escape\Escape\bin\Debug\Escape.pdb
+H:\programming 11\Escape\Escape\bin\Debug\Escape.xml
+H:\programming 11\Escape\Escape\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\programming 11\Escape\Escape\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\programming 11\Escape\Escape\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\programming 11\Escape\Escape\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\programming 11\Escape\Escape\obj\x86\Debug\Escape.exe
+H:\programming 11\Escape\Escape\obj\x86\Debug\Escape.xml
+H:\programming 11\Escape\Escape\obj\x86\Debug\Escape.pdb
+H:\programming 11\Escape\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeMenu.resources
+H:\programming 11\Escape\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeInstructions.resources
+H:\programming 11\Escape\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeGame.resources
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\Escape.exe
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\Escape.xml
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\Escape.pdb
+C:\Users\Misha\Documents\,programming\Escape\Escape\bin\Debug\Escape.exe
+C:\Users\Misha\Documents\,programming\Escape\Escape\bin\Debug\Escape.pdb
+C:\Users\Misha\Documents\,programming\Escape\Escape\bin\Debug\Escape.xml
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeMenu.resources
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeInstructions.resources
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeGame.resources
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Misha\Documents\,programming\Escape\Escape\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\Escape.exe
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\Escape.xml
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\Escape.pdb
+C:\Users\Misha\Documents\,programming\Escape2\Escape\bin\Debug\Escape.exe
+C:\Users\Misha\Documents\,programming\Escape2\Escape\bin\Debug\Escape.pdb
+C:\Users\Misha\Documents\,programming\Escape2\Escape\bin\Debug\Escape.xml
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeMenu.resources
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeInstructions.resources
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeGame.resources
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Misha\Documents\,programming\Escape2\Escape\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michail\Desktop\Escape2\Escape\bin\Debug\Escape.exe
+C:\Users\Michail\Desktop\Escape2\Escape\bin\Debug\Escape.pdb
+C:\Users\Michail\Desktop\Escape2\Escape\bin\Debug\Escape.xml
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\Escape.vbprojAssemblyReference.cache
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeMenu.resources
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeInstructions.resources
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\WindowsApplication1.FORMEscapeGame.resources
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\Escape.vbproj.GenerateResource.cache
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\Escape.vbproj.CoreCompileInputs.cache
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\Escape.exe
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\Escape.xml
+C:\Users\Michail\Desktop\Escape2\Escape\obj\x86\Debug\Escape.pdb
